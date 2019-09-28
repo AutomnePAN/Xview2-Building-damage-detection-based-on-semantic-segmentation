@@ -12,7 +12,6 @@ Ce dataset est utilisé actuellement dans le challenge xView2 (https://www.xview
 ## Problème du Hackathon
 Pour chaque paire d'images avant-après catastrophe, l'objectif est d'évaluer la position des buildings et leur état de destruction.
 
-[IMAGE]
 
 L'état de destruction est défini selon une échelle de 4 niveaux:
  - 1 : pas de dégâts
